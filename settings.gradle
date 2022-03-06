@@ -1,0 +1,5 @@
+rootProject.name = "XRouterCompiler"
+include ':app'
+include ':annotation_compiler'
+include ':annotation'
+include ':xrouter'
